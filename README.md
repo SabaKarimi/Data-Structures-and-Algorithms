@@ -1,5 +1,2 @@
 # Data-Structures-and-Algorithms
-Linked List
-Tree
-Graph
-Stack, Queue etc.
+Linked List, Tree, Graph, Stack, Queue, Lowest Common Ancestor etc.
